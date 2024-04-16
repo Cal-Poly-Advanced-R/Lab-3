@@ -1,6 +1,6 @@
 # Lab 3: Visualizing International Space Station Information via APIs
 
-**Create an R Markdown file for all of Lab 3.**
+**Create one Quarto file for all of Lab 3.**
 
 Make sure your final file is carefully formatted, so that each analysis is clear and concise.  Be sure your knitted .html file shows all your source code, including your function definitions. 
 
